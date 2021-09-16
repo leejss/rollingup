@@ -1,0 +1,2 @@
+npm i -D @babel/core @babel/preset-env @babel/preset-react @babel/preset-typescript @babel/plugin-transform-runtime
+npm i @babel/runtime
